@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bidap-s/LeetCode150/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/bidap-s/LeetCode150/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/bidap-s/LeetCode150/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/bidap-s/LeetCode150/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bidap-s/LeetCode150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bidap-s/LeetCode150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bidap-s/LeetCode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bidap-s/LeetCode150/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/bidap-s/LeetCode150/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bidap-s/LeetCode150/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/bidap-s/LeetCode150/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/bidap-s/LeetCode150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/bidap-s/LeetCode150/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/bidap-s/LeetCode150/tree/master/0290-word-pattern) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bidap-s/LeetCode150/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/bidap-s/LeetCode150/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
