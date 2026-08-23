@@ -149,4 +149,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bidap-s/LeetCode150/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bidap-s/LeetCode150/tree/master/0021-merge-two-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bidap-s/LeetCode150/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bidap-s/LeetCode150/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bidap-s/LeetCode150/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bidap-s/LeetCode150/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bidap-s/LeetCode150/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
