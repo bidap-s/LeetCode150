@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bidap-s/LeetCode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/bidap-s/LeetCode150/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/bidap-s/LeetCode150/tree/master/0209-minimum-size-subarray-sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/bidap-s/LeetCode150/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/bidap-s/LeetCode150/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/bidap-s/LeetCode150/tree/master/0209-minimum-size-subarray-sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/bidap-s/LeetCode150/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
