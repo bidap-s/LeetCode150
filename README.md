@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bidap-s/LeetCode150/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/bidap-s/LeetCode150/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/bidap-s/LeetCode150/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/bidap-s/LeetCode150/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/bidap-s/LeetCode150/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/bidap-s/LeetCode150/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/bidap-s/LeetCode150/tree/master/0068-text-justification) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bidap-s/LeetCode150/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/bidap-s/LeetCode150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bidap-s/LeetCode150/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bidap-s/LeetCode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bidap-s/LeetCode150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bidap-s/LeetCode150/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/bidap-s/LeetCode150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bidap-s/LeetCode150/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bidap-s/LeetCode150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Binary Search
