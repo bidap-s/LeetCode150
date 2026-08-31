@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/bidap-s/LeetCode150/tree/master/0595-big-countries) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bidap-s/LeetCode150/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bidap-s/LeetCode150/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
