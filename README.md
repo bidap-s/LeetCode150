@@ -200,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/bidap-s/LeetCode150/tree/master/0068-text-justification) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bidap-s/LeetCode150/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
